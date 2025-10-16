@@ -1,6 +1,6 @@
 <?php
 /**
-* Lenumica Exploiter v5.5 - A PTSMC GROUP Project
+* Lenumica Exploiter v5.5 - A PTSMC Gasdsadasdasdsad
 * @version 5.5 (Upgraded Terminal)
 * @author PTSMC Group (Optimized by Leo, feature by jnx, Design by lpe)
 * @description A fully refactored, single-file PHP file manager with a modern, responsive, and AJAX-powered interface.
